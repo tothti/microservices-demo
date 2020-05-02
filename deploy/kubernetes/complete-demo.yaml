@@ -386,6 +386,9 @@ metadata:
     name: orders
   namespace: sock-shop
 spec:
+  selector:
+    matchLabels:
+      name: orders
   replicas: 1
   template:
     metadata:
