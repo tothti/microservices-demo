@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/microservices-demo/microservices-demo.svg?branch=master)](https://travis-ci.org/microservices-demo/microservices-demo)
+updated for Kubernetes v1.18.2
 
 # Sock Shop : A Microservice Demo Application
 
